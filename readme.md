@@ -47,7 +47,7 @@ vagrant up
 ### Disclaimer
 This is for testing only. Not suitable for production.
 
-### For more information visit [NuChange Blog](http://nuchange.ca)
+### For more information visit [NuChange Blog](http://nuchange.ca) mk
 
 ### Contribute
 pull-requests welcome
